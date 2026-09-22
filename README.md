@@ -17,7 +17,7 @@ Sentinel is an autonomous cybersecurity platform that combines code scanning, at
 ✨ **Multi-Agent Architecture**
 - 5 specialized agents working in perfect harmony
 - Sequential workflow: Scanner → Threat → Attack → Patch → Report
-- Centralized LLM orchestration for consistency and token optimization
+- Centralized LLM orchestration for consistency and token optimization        
 
 🔍 **Scanner Agent**
 - Detects 7+ vulnerability types (SQL Injection, XSS, RCE, etc.)
